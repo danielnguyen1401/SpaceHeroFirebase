@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1095229705553",
+    "firebase_url": "https://spacehero-95a6e.firebaseio.com",
+    "project_id": "spacehero-95a6e",
+    "storage_bucket": "spacehero-95a6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095229705553:android:4e4998cd95ed4058",
+        "android_client_info": {
+          "package_name": "com.xgame.spacehero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095229705553-k40lofc1794qlqpnkk1bs9tc71oei7ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFx_y-cUD_tLqabByu_tmA4_pxj8eJ-i4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
